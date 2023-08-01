@@ -1,0 +1,2 @@
+name="Наталья"
+print (name)
